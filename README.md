@@ -4,8 +4,6 @@ SQL-based analysis of MercadoLibre’s conversion funnel and user retention acro
 
 ## Project overview
 
-## Project overview
-
 This project evaluates user behavior across the e-commerce conversion funnel and analyzes retention on days 7, 14, 21 and 28.
 
 The objective was to identify the stages with the highest user drop-off, compare performance across countries and cohorts, and develop business recommendations to improve conversion and long-term engagement.
@@ -13,7 +11,6 @@ The objective was to identify the stages with the highest user drop-off, compare
 The analysis covers activity from January to August 2025.
 
 ### Executive summary
-
 ![Executive summary](images/01_executive_summary.png)
 
 ## Business questions
@@ -57,9 +54,7 @@ The largest drop occurred between **product selection and cart addition**, repre
 This indicates that the main conversion challenge occurs before users formally begin the purchasing process.
 
 ## Funnel performance by country
-
 ![Funnel performance by country](images/03_funnel_by_country.png)
-
 Country-level analysis identified important differences in cart addition performance:
 
 - Uruguay: 22.73%
@@ -70,9 +65,7 @@ Country-level analysis identified important differences in cart addition perform
 Uruguay and Chile recorded the strongest results at the add-to-cart stage, while Argentina and Brazil showed the greatest opportunity for improvement.
 
 ## Retention analysis
-
 ![Retention by cohort](images/05_retention_by_cohort.png)
-
 Retention was evaluated at:
 
 - D7
@@ -92,9 +85,7 @@ For the January 1–6 cohort, retention declined as follows:
 The results show a sharp decrease after the first week, with particularly significant losses between D14 and D28.
 
 ## Retention by country
-
 ![Retention by country](images/04_retention_by_country.png)
-
 At D28, the strongest retention results were observed in:
 
 - Peru: 3.2%
