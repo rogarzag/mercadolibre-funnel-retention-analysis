@@ -4,13 +4,17 @@ SQL-based analysis of MercadoLibre’s conversion funnel and user retention acro
 
 ## Project overview
 
-![Executive summary](images/01_executive_summary.png)
+## Project overview
 
 This project evaluates user behavior across the e-commerce conversion funnel and analyzes retention on days 7, 14, 21 and 28.
 
 The objective was to identify the stages with the highest user drop-off, compare performance across countries and cohorts, and develop business recommendations to improve conversion and long-term engagement.
 
 The analysis covers activity from January to August 2025.
+
+### Executive summary
+
+![Executive summary](images/01_executive_summary.png)
 
 ## Business questions
 
