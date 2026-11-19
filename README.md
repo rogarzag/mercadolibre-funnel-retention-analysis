@@ -15,7 +15,7 @@ SQL-based analysis of MercadoLibre’s conversion funnel and user retention acro
 
 This project evaluates user behavior across the e-commerce conversion funnel and analyzes retention on days 7, 14, 21 and 28.
 
-The objective was to identify the stages with the highest user drop-off, compare performance across countries and cohorts, and develop business recommendations to improve conversion and long-term engagement.
+The analysis aimed to identify where users left the conversion funnel, compare funnel and retention results across countries, and review retention across cohorts.
 
 The analysis covers activity from January to August 2025.
 
@@ -41,9 +41,8 @@ The analysis included:
 - Organizing user events by funnel stage.
 - Calculating the percentage of users reaching each stage.
 - Comparing funnel performance across ten Latin American countries.
-- Grouping users into cohorts according to their first activity date.
-- Measuring retention at D7, D14, D21 and D28.
-- Validating results and identifying the main business opportunities.
+- Calculating retention at D7, D14, D21 and D28.
+- Comparing retention by country and by monthly cohort.
 
 ## Conversion funnel
 
@@ -91,7 +90,7 @@ For the January 1–6 cohort, retention declined as follows:
 | D21 | 24.1% |
 | D28 | 3.0% |
 
-The results show a sharp decrease after the first week, with particularly significant losses between D14 and D28.
+For the January 1–6, 2025 registration group described in the executive summary, retention declined from 86.2% on D7 to 56.2% on D14, 24.1% on D21 and 3.0% on D28. The workbook also includes a separate monthly cohort table from January to August 2025.
 
 ## Retention by country
 ![Retention by country](images/04_retention_by_country.png)
@@ -121,27 +120,15 @@ Although overall long-term retention was low, Peru and Mexico showed comparative
 
 ### Improve the transition from product selection to cart
 
-Potential actions include:
-
-- Simplifying the add-to-cart process.
-- Making calls to action more visible.
-- Reviewing product information, pricing and availability.
-- Identifying technical or usability barriers.
-- Testing personalized product recommendations.
+The executive summary recommends analyzing why Uruguay and Chile have higher add-to-cart rates and reviewing the lower rates in Brazil and Argentina. It does not identify the causes of these differences.
 
 ### Strengthen retention between D7 and D14
 
-Potential actions include:
-
-- Personalized follow-up messages.
-- Product reminders and relevant recommendations.
-- Targeted promotions based on browsing behavior.
-- Re-engagement campaigns during the first two weeks.
-- Analysis of successful practices in countries with stronger retention.
+The executive summary suggests notifications, reminders, personalized promotions and product recommendations between D7 and D14. It also suggests strengthening loyalty among users active on D28 in Peru and Mexico, and reviewing onboarding in countries with lower retention, particularly Colombia and Chile.
 
 ### Investigate country-level differences
 
-The stronger results in Uruguay, Chile, Peru and Mexico should be analyzed further to identify practices that could be adapted to lower-performing markets.
+The executive summary recommends reviewing the factors behind the higher add-to-cart rates in Uruguay and Chile, and examining the lower rates in Brazil and Argentina. For retention, it suggests reviewing the D7–D14 period and the country differences shown in the workbook.
 
 ## Tools and skills
 
@@ -176,4 +163,4 @@ This repository documents the business problem, methodology, principal findings 
 
 ## Conclusion
 
-The largest funnel loss occurred between product selection and add-to-cart, while retention declined substantially after D7. These results identify cart-add friction and early retention as priorities for further investigation. The analysis is descriptive: it does not explain why users abandon the funnel or establish which intervention would improve conversion or retention.
+The workbook shows the largest funnel drop between select_item and add_to_cart: 76.90% of users reached select_item, while 11.01% reached add_to_cart. It also shows that retention for the January 1–6 group declined from 86.2% on D7 to 3.0% on D28. The analysis compares these results across countries and cohorts, but does not establish why users leave the funnel or which actions would improve retention.
