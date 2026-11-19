@@ -6,7 +6,7 @@
 **GitHub repository:** [mercadolibre-funnel-retention-analysis](https://github.com/rogarzag/mercadolibre-funnel-retention-analysis)  
 **Project focus:** Data Analytics · SQL · Conversion Funnel · Cohort Analysis · Retention Analysis  
 **Project context:** TripleTen Data Analyst Bootcamp; SQL portfolio project  
-**Data / period covered:** January–August 2025; ten Latin American countries  
+**Data / project coverage:** January–August 2025; ten Latin American countries  
 **Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
 
 ## Project Overview
