@@ -1,8 +1,17 @@
 # MercadoLibre Funnel and Retention Analysis
 
-SQL-based analysis of MercadoLibre’s conversion funnel and user retention across ten Latin American countries.
+**Author:** [Rodrigo Garza García](https://www.linkedin.com/in/rodrigogarzamx/)  
+**Professional focus:** Public & International Affairs · Business Analysis · Data Analytics  
+**Portfolio page:** [mercadolibre](https://rogarzag.github.io/projects/mercadolibre/)  
+**GitHub repository:** [mercadolibre-funnel-retention-analysis](https://github.com/rogarzag/mercadolibre-funnel-retention-analysis)  
+**Project focus:** Data Analytics · SQL · Conversion Funnel · Cohort Analysis · Retention Analysis  
+**Project context:** TripleTen Data Analyst Bootcamp; SQL portfolio project  
+**Data / case coverage:** January–August 2025; ten Latin American countries  
+**Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
 
-## Project overview
+## Project Overview
+
+SQL-based analysis of MercadoLibre’s conversion funnel and user retention across ten Latin American countries.
 
 This project evaluates user behavior across the e-commerce conversion funnel and analyzes retention on days 7, 14, 21 and 28.
 
@@ -165,12 +174,6 @@ This repository documents the business problem, methodology, principal findings 
 - Additional variables such as device type, acquisition channel, product category and campaign source could support deeper analysis.
 - Long-term retention should be interpreted in the context of the available observation period.
 
-## Author
+## Conclusion
 
-**Rodrigo Garza García**
-
-International affairs, public policy, strategy and data analytics professional.
-
-- GitHub: [rogarzag](https://github.com/rogarzag)
-- LinkedIn: [Rodrigo Garza García](https://www.linkedin.com/in/rodrigogarzamx/)
-- Email: rogarzag@gmail.com
+The largest funnel loss occurred between product selection and add-to-cart, while retention declined substantially after D7. These results identify cart-add friction and early retention as priorities for further investigation. The analysis is descriptive: it does not explain why users abandon the funnel or establish which intervention would improve conversion or retention.
