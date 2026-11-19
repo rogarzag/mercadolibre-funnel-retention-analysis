@@ -2,7 +2,7 @@
 
 **Author:** [Rodrigo Garza García](https://www.linkedin.com/in/rodrigogarzamx/)  
 **Professional focus:** Public & International Affairs · Business Analysis · Data Analytics  
-**Portfolio page:** [mercadolibre](https://rogarzag.github.io/projects/mercadolibre/)  
+**Portfolio page:** [MercadoLibre](https://rogarzag.github.io/projects/mercadolibre/)  
 **GitHub repository:** [mercadolibre-funnel-retention-analysis](https://github.com/rogarzag/mercadolibre-funnel-retention-analysis)  
 **Project focus:** Data Analytics · SQL · Conversion Funnel · Cohort Analysis · Retention Analysis  
 **Project context:** TripleTen Data Analyst Bootcamp; SQL portfolio project  
